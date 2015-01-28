@@ -1,0 +1,35 @@
+# Virtualenv
+.Python
+[Bb]in
+[Ii]nclude
+[Ll]ib
+[Ss]cripts
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must ends with two \r.
+Icon
+
+# Thumbnails
+._*
+.bash_history
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+*.log
+*.pyc
+
+/media/*
+/static/*
+bower_components
+node_modules
+/requirements/build
+
+exw/media
+exw/static
+exw/apps/*/static/
+

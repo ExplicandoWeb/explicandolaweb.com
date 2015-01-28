@@ -1,0 +1,19 @@
+{
+  "name": "ExplicandoLaWeb",
+  "version": "1.0.0",
+  "homepage": "http://explicandolaweb.com",
+  "authors": [
+    "Bienvenido Sáez Muelas <b@explicandolaweb.com>"
+  ],
+  "description": "Explicando la Web",
+  "main": "principal.js",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+  }
+}
