@@ -18,7 +18,7 @@ Para mejorar la seguridad de las contraseñas se crearán las siguientes variabl
 
 ## Puesta en marcha
 Una vez instalados los paquetes deberemos realizar la sincronización de la base de datos así como la aplicación de las migraciones. Esta sincronización dependerá del fichero de configuración que queramos usar.
-- 'python manage.py syncdb --settings=exw.settings.dev'
-- 'python manage.py migrate --settings=exw.settings.dev'
+- `python manage.py syncdb --settings=exw.settings.dev`
+- `python manage.py migrate --settings=exw.settings.dev`
 Arrancamos el proyecto con la siguiente instrucción
-- 'python manage.py runserver --settings=exw.settings.dev'
+- `python manage.py runserver --settings=exw.settings.dev`
